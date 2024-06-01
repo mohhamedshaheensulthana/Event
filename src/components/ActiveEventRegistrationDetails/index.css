@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.registration-status-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    width: 40%;
+    height:100vh;
+}
